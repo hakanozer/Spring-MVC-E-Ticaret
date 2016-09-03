@@ -1,5 +1,5 @@
 # SpringMVC
-Bu proje Spring MVC ile yazılmış bir işletmenin e-ticaret alt yapı hizmetlerini sunmaktadır.
+Bu proje Spring MVC ile yazÄ±lmÄ±ÅŸ bir iÅŸletmenin e-ticaret alt yapÄ± hizmetlerini sunmaktadÄ±r.
 
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/1.png" width="200"/>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/2.png" width="200"/>
