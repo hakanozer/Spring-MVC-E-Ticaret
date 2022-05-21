@@ -1,6 +1,7 @@
-# SpringMVC
+# Spring MVC - Session JPA
 Bu proje Spring MVC ile yazılmış bir işletmenin e-ticaret alt yapı hizmetlerini sunmaktadır.
 
+<p>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/1.png" width="200"/>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/2.png" width="200"/>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/3.png" width="200"/>
@@ -15,5 +16,4 @@ Bu proje Spring MVC ile yazılmış bir işletmenin e-ticaret alt yapı hizmetle
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/12.png" width="200"/>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/13.png" width="200"/>
 <img src="https://github.com/hakanozer/SpringMVC/blob/master/ekran_goruntuleri/14.png" width="200"/>
-
-
+</p>
